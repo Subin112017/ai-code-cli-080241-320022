@@ -1,0 +1,3 @@
+/* rev-d248e7-20261110 */
+#pragma once
+int claude_main(int argc, char** argv);
